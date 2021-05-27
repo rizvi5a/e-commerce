@@ -31,7 +31,7 @@ Product.init(
       refernces: {
         model:"category",,
         key:"id"
-
+      }
       }
   },
 
