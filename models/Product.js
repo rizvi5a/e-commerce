@@ -29,7 +29,7 @@ Product.init(
       type:DataTypes.INTEGER,
       allowNull: true,
       refernces: {
-        model:"category",,
+        model:"category",
         key:"id"
       }
       }
