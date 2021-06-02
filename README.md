@@ -8,3 +8,5 @@
 4. Category, Product, and Tag models are modified.
 
 5. Data querry options are added in category, products and tag routes.
+
+6. POST, PUT and DELETE options are added.

@@ -81,7 +81,7 @@ router.post('/',  (req, res) => {
     });
 });
 
-// update product
+// update product pu option is aded
 router.put('/:id', (req, res) => {
   // update product data
   Product.update(req.body, {
@@ -122,7 +122,7 @@ router.put('/:id', (req, res) => {
       res.status(400).json(err);
     });
 });
-
+// Delete option is added
 router.delete('/:id', async (req, res) => {
   // delete one product by its `id` value
 
